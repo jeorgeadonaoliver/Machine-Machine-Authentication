@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\components\\pages\\protecteddata.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:components\\pages\\protecteddata.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\service\\handler\\authheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:service\\handler\\authheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\components\\pages\\protecteddata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:components\\pages\\protecteddata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\dtr management\\dtr.blazor.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06083255-B28F-431D-B24D-1A277480DAD3}|DTR.Blazor.UI.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthHeaderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Service\\Handler\\AuthHeaderHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Handler\\AuthHeaderHandler.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Service\\Handler\\AuthHeaderHandler.cs",
+              "RelativeToolTip": "Service\\Handler\\AuthHeaderHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:13:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Service\\TokenService.cs",
+              "RelativeToolTip": "Service\\TokenService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:06:21.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:03:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectedData.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\ProtectedData.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProtectedData.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\ProtectedData.razor",
+              "RelativeToolTip": "Components\\Pages\\ProtectedData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:03:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProtectedData.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\ProtectedData.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProtectedData.razor.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Pages\\ProtectedData.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\ProtectedData.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:39:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T07:35:30.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

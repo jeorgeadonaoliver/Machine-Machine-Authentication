@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DTR.Blazor.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DTR.Blazor.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\DTR Management\\DTR.Blazor.UI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DTR.Blazor.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DTR.Blazor.UI.props",
+      "PackagePath": "build\\DTR.Blazor.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DTR.Blazor.UI.props",
+      "PackagePath": "buildMultiTargeting\\DTR.Blazor.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DTR.Blazor.UI.props",
+      "PackagePath": "buildTransitive\\DTR.Blazor.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

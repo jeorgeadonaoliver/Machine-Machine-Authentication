@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DTR.Blazor.UI.props" />
+</Project>

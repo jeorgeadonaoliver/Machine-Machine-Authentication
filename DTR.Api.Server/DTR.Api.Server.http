@@ -1,0 +1,6 @@
+@DTR.Api.Server_HostAddress = http://localhost:5191
+
+GET {{DTR.Api.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
